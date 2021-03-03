@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "626435149715",
+    "firebase_url": "https://fir-example-45ec7-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-example-45ec7",
+    "storage_bucket": "fir-example-45ec7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626435149715:android:53506699baaca441e12266",
+        "android_client_info": {
+          "package_name": "fr.skyle.firebaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626435149715-tvgrlscisr9bsp3a0u95o7gicbukjpmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhbyNcCuocpQIxiTgbkMXMcpuSaEzCZnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626435149715-tvgrlscisr9bsp3a0u95o7gicbukjpmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

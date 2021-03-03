@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirebaseExample</string>
+
+    <!-- Main -->
+    <string name="main_articles_empty">Vous n\'avez aucun article pour le moment !</string>
+
+    <!-- Add article -->
+    <string name="add_article_error_field_empty">Veuillez remplir les champs</string>
+    <string name="add_article_error_cant_add">Erreur lors de l\'ajout de l\'article</string>
+</resources>
