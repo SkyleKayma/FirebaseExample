@@ -36,4 +36,4 @@ Téléchargez le fichier google-services.json qui va permettre à votre applicat
 
 Félicitations, tout est en place pour commencer à travailler ! 
 
-Je vous invite à regarder et lancer le fichier exemple pour mieux comprendre le fonctionement de Firebase Realtime Database !
+Je vous invite à regarder et lancer le projet exemple pour mieux comprendre le fonctionnement de Firebase Realtime Database !
