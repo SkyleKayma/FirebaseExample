@@ -14,7 +14,7 @@ Trouver l'onglet permettant d'avoir accès à Firebase Database:
 
 Créez une nouvelle base de données Firebase Realtime Database:
 
-<img src="captures/firebase_database_step_1.png" width="200">
+<img src="captures/firebase_database_step_1.png" width="300">
 
 Choisissez un mode test afin de ne pase être embêté par les règles dans un premier temps:
 
@@ -24,15 +24,15 @@ Bravo vous avez votre base de données.
 
 Maintenant liez la à votre application en ajoutant votre application sur Firebase :
 
-<img src="captures/firebase_add_app_step_1.png" width="200">
+<img src="captures/firebase_add_app_step_1.png" width="300">
 
 Renseignez le package de votre projet:
 
-<img src="captures/firebase_add_app_step_2.png" width="200">
+<img src="captures/firebase_add_app_step_2.png" width="300">
 
 Téléchargez le fichier google-services.json qui va permettre à votre application d'interragir avec le projet Firebase Realtime Database que l'on vient de créer:
 
-<img src="captures/firebase_add_app_step_3.png" width="200">
+<img src="captures/firebase_add_app_step_3.png" width="300">
 
 Félicitations, tout est en place pour commencer à travailler ! 
 
